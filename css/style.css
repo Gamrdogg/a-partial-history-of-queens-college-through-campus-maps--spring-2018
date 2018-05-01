@@ -35,6 +35,9 @@
   width: 960px;
 }
 
+span {
+   color: #B4B4B4
+}
 body {
   font-family: 'IBM Plex Sans', sans-serif;
 }
@@ -287,7 +290,7 @@ main ul {
 
 main li {
   counter-increment: listStyle;
-}
+} 
 
 main li::before {
   font-weight: 700;
