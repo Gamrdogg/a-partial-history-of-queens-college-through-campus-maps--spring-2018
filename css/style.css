@@ -38,7 +38,7 @@ span {
    color: #B4B4B4
 }
 main {
-  margin-left: auto; margin-right: auto;
+  margin-left: auto; margin-right: auto; margin-top: 30px
 }
 body {
   font-family: 'IBM Plex Sans', sans-serif;
@@ -100,6 +100,7 @@ header h1 {
 
 nav {
   width: 80px;
+  position: fixed;
 }
 
 nav li {
