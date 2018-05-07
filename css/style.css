@@ -304,10 +304,7 @@ main li {
   counter-increment: listStyle;
 }
 
-main li::before {
-  font-weight: 700;
-  content: counter(listStyle, upper-alpha);
-}
+
 
 picture {
   display: block;
